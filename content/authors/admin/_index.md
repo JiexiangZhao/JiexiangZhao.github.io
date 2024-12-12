@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhaojx5466@nankai.edu.cn'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/weixin
     url: https://jiexiangzhao.github.io/
   - icon: brands/instagram
     url: https://jiexiangzhao.github.io/
