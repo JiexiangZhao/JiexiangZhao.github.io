@@ -55,28 +55,17 @@ education:
     button:
       text: '尚未出版'
       url: 'https://jiexiangzhao.github.io/'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: VS Visiting scholar
+    institution: Indiana University Bloomington
+    date_start: 2018-08-31
+    date_end: 2019-08-30
+    college: |
+      Anthropology Department
+  - area: BA Ethnology
+    institution: Minzu University of China，MUC
+    date_start: 2011-09-01
+    date_end: 2015-07-31
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
