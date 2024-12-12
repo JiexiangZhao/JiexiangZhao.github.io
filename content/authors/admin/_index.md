@@ -41,20 +41,20 @@ profiles:
     url: https://orcid.org/0000-0003-2714-9764
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Development Anthropology
+  - Sociology of Charity
+  - Educational Anthropology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Anthropology
+    institution: Sun Yat-sen University
+    date_start: 2015-09-01
+    date_end: 2021-6-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Alternative Education and Self-making： Ethnographic study on Waldorf education_. Supervised by [Prof Zhiyang Liu](https://ssa.sysu.edu.cn/teacher/2482). 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: '尚未出版'
+      url: 'https://jiexiangzhao.github.io/'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
