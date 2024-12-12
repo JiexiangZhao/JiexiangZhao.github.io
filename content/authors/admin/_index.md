@@ -53,7 +53,7 @@ education:
     summary: |
       Thesis on _Alternative Education and Self-making： Ethnographic study on Waldorf education_. Supervised by [Prof Zhiyang Liu](https://ssa.sysu.edu.cn/teacher/2482). 
     button:
-      text: '尚未出版'
+      text: 'null'
       url: 'https://jiexiangzhao.github.io/'
   - area: VS Visiting scholar
     institution: Indiana University Bloomington
