@@ -34,13 +34,7 @@ profiles:
     url: 'mailto:zhaojx5466@nankai.edu.cn'
     label: E-mail Me
   - icon: brands/weixin
-    url: https://jiexiangzhao.github.io/
-  - icon: brands/instagram
-    url: https://jiexiangzhao.github.io/
-  - icon: brands/github
-    url: https://jiexiangzhao.github.io/
-  - icon: brands/linkedin
-    url: https://jiexiangzhao.github.io/
+    url: https://mp.weixin.qq.com/s/SpBsvc5H1epzUxb5V-KbaQ?token=793529495&lang=zh_CN
   - icon: academicons/google-scholar
     url: https://jiexiangzhao.github.io/
   - icon: academicons/orcid
