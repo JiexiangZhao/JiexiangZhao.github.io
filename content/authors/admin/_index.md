@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: NKU
+  - name: Nankai University
     url: https://shxy.nankai.edu.cn/faculty/sociology/zjx.htm/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhaojx5466@nankai.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://jiexiangzhao.github.io/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://jiexiangzhao.github.io/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://jiexiangzhao.github.io/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://jiexiangzhao.github.io/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://jiexiangzhao.github.io/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2714-9764
 
 interests:
   - Artificial Intelligence
